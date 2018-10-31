@@ -1,0 +1,130 @@
+p{
+	font-family: Helvetica;
+color: black;
+}
+body{
+	background-color: hsla(390,100%,50%,0.3);
+	font-family: Helvetica;
+	font-size: 16px;
+
+}
+h1{
+	color: brown;
+	font-size: 30px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 35%;
+	text-align: center;
+	background: lightblue;
+
+
+}
+h2{
+	color: brown;
+	background: lightblue;
+
+}
+ul{
+	color: brown;
+	text-decoration: none;
+}
+.intro{
+	text-decoration: none;
+}
+body{
+	color: ;
+}
+p{
+	color: brown;
+}
+.container {
+	background-color: black;
+	padding: 10px;
+	border: 60px inset orange;
+	margin: 20px auto;
+	width: 90%; float: auto;
+}
+#table-of-contents {
+	position: relative;
+	top: 50px;
+	left: 50px;
+	font-weight: bold;
+	font-family: Helvetica;
+	font-size: 30px;
+	color: blue;
+	text-decoration: none;
+}
+#table-of-contents a {
+	color: orange;
+	text-decoration: none;
+	
+
+}
+#table-of-contents a:hover {
+	color: pink;
+	text-decoration: none;
+
+}
+img {
+	max-width: 30%;
+	padding-top: 20px;
+
+}
+.number {
+	text-align: center;
+	font-style: bold;
+}
+a#back-to-top {
+	width: 200px;
+	height: 200px;
+	background: white;
+	border: 2px inset ;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 100px;
+	display: block;
+	margin: 20px auto;
+	text-align: center;
+
+}
+a#back-to-top:hover {
+	border: 2px inset black;
+	background: yellow;
+	color: black;
+}
+a#back-to-top span {
+	display: block;
+	padding-top: 88px;
+}
+#back-to-top {
+	text-decoration: none;
+font-size: 20px;
+color: black
+}
+a#Music{
+	width: 200px;
+	height: 200px;
+	background: white;
+	border: 2px inset ;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 100px;
+	display: block;
+	margin: 10px auto;
+	text-align: center;
+
+}
+a#Music:hover {
+	border: 2px inset black;
+	background: yellow;
+	color: black;
+}
+a#Music span {
+	display: block;
+	padding-top: 88px;
+}
+#Music {
+	text-decoration: none;
+font-size: 20px;
+color: black
+}
