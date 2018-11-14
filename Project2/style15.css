@@ -1,0 +1,33 @@
+body{
+	position: relative;
+	display: inline-block;
+	width: 1200px;
+	height: 657px;
+	border: 1px dotted lightgray;
+	margin: 50px;
+
+}
+#A{
+ float: auto;
+ border: 10px inset ;
+ background-color: white;
+ margin: 100px;
+}
+#special{
+	
+	float: auto;
+	border: 10px inset lightgray;
+}
+.more{
+	float: center;
+	border: 10px inset lightgray;
+	background-color: black;
+	display: block;
+	margin: 635px;
+}
+#More{
+	float: center;
+	border: 10px inset lightgray;
+	background-color: black;
+	margin: 625px;
+}

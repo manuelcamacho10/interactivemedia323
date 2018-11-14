@@ -1,0 +1,46 @@
+h1{
+	position: relative;
+	text-shadow: 2px 2px 50px magenta;
+	font-size: 100px;
+	font-family: monospace;
+	border: 10px dashed black;
+	border-radius: 100%;
+	padding-left: 250px;
+	font-weight: bold;
+}
+h2{
+	position: relative;
+	text-shadow: 2px 2px 50px rgb(16, 51, 654);
+	font-size: 100px;
+	font-family: monospace;
+	border: 10px dashed lightgray;
+	border-radius: 100%;
+	padding-left: 150px;
+}
+h3{
+	position: relative;
+	text-shadow: 2px 2px 50px orange;
+	font-size: 100px;
+	font-family: monospace;
+	border: 10px dashed lightgray;
+	border-radius: 100%;
+	padding-left: 450px;
+}
+h4{
+	position: relative;
+	text-shadow: 2px 2px 50px yellow;
+	font-size: 100px;
+	font-family: monospace;
+	border: 10px dashed lightgray;
+	border-radius: 100%;
+	padding-left: 270px;
+}
+h5{
+	position: relative;
+	text-shadow: 2px 2px 50px yellow;
+	font-size: 100px;
+	font-family: monospace;
+	border: 10px dashed lightgray;
+	border-radius: 100%;
+	padding-left: 250px;
+}

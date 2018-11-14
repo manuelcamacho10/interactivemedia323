@@ -1,0 +1,49 @@
+
+body{
+	background-color: black;
+} 
+.frameout{
+	width: 500px;
+	height: 1000px;
+	background-color:  tan;
+	border-radius: 250px / 500px;
+	margin-left: 800px;
+	margin-top: 500px;
+	position: absolute;
+	border: 30px dashed gold;
+}
+.framein{
+	  width: 400px;
+      height: 800px;
+      background: lightgray;
+      border-radius: 200px / 400px;
+      margin-left: 50px;
+      margin-top: 100px;
+}
+.give{
+	font-size: 100px;
+	margin-left: 120px;
+	margin-top: 100px;
+	font-family: URW Chancery L, cursive;
+}
+.help{
+	font-size: 100px;
+	margin-left: 120px;
+	margin-top: 180px;
+	font-family: URW Chancery L, cursive;
+}
+.care{
+	font-size: 100px;
+	margin-left: 120px;
+	margin-top: 120px;
+	font-family: URW Chancery L, cursive;
+}
+.boo{
+	height: 1000px;
+	width: 500px;
+	background-color: black;
+	color: white;
+	letter-spacing: 150px;
+	font-size: 30px;
+	font-weight: bolder;
+}

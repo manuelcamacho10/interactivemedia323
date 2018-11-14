@@ -1,0 +1,27 @@
+.more{
+	display: inline-block;
+	border: ridge;
+	margin: 25px 50px 75px 100px;
+	padding: 25px;
+	float: right;
+}
+.More{
+	border: 20px ridge black;
+	padding: 25px;
+	margin-top: 500px;
+	margin-left: 500px;
+	display: inline-block;
+	float: right;
+
+}
+h1{
+	display: inline-block;
+	border: ridge;
+	margin: 25px 50px 75px 100px;
+	padding: 25px;
+	float: right;
+
+}
+h6{
+	border: dotted darkgray;
+}

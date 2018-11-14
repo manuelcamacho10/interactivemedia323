@@ -1,0 +1,13 @@
+p{
+	border: 80px dotted black;
+	padding: 25px;
+	margin-top: 500px;
+	margin-left: 500px;
+	display: inline-block;
+	float: right;
+
+}
+h1{
+	border: 10px dashed lightgray;
+	float: right;
+}

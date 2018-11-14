@@ -1,0 +1,87 @@
+body{
+	background-color: red;
+	background-image: gradient(red, blue); 
+}
+ul{
+	border: black 15px solid;
+	color: #34FFD2;
+	background-color: #01965C;
+	padding: 10px;
+	float: right;
+	margin-top: 1500px;
+	position: relative;
+	-webkit-animation: roll .5s infinite;
+          animation: roll .5s infinite;
+  -webkit-transform: rotate(30deg);
+          transform: rotate(30deg);
+  opacity: .7;
+
+}
+@-webkit-keyframes roll {
+
+0% {-webkit-transform: rotate(0);
+            transform: rotate(0);}
+          100% {
+    -webkit-transform: rotate(360deg);
+            transform: rotate(360deg);
+  }
+}
+
+ol{
+	border: black 5px dotted;
+	padding: 10px;
+	float: left;
+	position: relative;
+	margin-top: 50px; 
+	margin-bottom: 50px;
+	margin-right: 700px; 
+	margin-left: 700px;
+	-webkit-animation: roll .05s infinite;
+          animation: roll .05s infinite;
+  -webkit-transform: rotate(30deg);
+          transform: rotate(30deg);
+  opacity: .7;
+
+}
+@-webkit-keyframes roll {
+
+0% {-webkit-transform: rotate(0);
+            transform: rotate(0);}
+          100% {
+    -webkit-transform: rotate(360deg);
+            transform: rotate(360deg);
+  }
+}
+													p{
+														border: 2px black dotted;
+														border-radius: 40%;
+														background-color: #431996;
+														color: #961732;
+														width: 20px;
+														display: inline-block;
+														padding: 111px;
+														margin: 200px;
+														font-size: 20px;
+
+													-webkit-animation: roll 3s infinite;
+													          animation: roll 3s infinite;
+													  -webkit-transform: rotate(30deg);
+													          transform: rotate(30deg);
+													  opacity: .7;
+
+													}
+													@-webkit-keyframes roll {
+
+													0% {-webkit-transform: rotate(0);
+													            transform: rotate(0);}
+													          100% {
+													    -webkit-transform: rotate(360deg);
+													            transform: rotate(360deg);
+													}
+																							.h3 {
+																																																position: static;
+																								margin: 35px 56px 62px 67px;
+																								font-size: 400px;
+
+																						}										
+																							

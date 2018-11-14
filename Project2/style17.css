@@ -1,0 +1,92 @@
+.special{
+  background-color: black;
+  height: 100px;
+  width: 100px;
+
+  border-radius: 50%;
+  position: absolute;
+  border: 2px dotted gray;
+}
+.word{
+  margin-top: 40px;
+  margin-left:  22.5px;
+  font-family: American Typewriter;
+  text-transform: capitalize;
+  font-weight: bold;
+  color: white;
+}
+.boxyou{
+  background-color: black;
+  height: 100px;
+  width: 100px;
+  margin-top: 2582px;
+  margin-left: 2469px;
+  border-radius: 50%;
+  position: absolute;
+  border: 2px dotted gray;
+
+}
+.you{
+margin-top: 40px;
+  margin-left:  35px;
+  font-family: American Typewriter;
+  text-transform: capitalize;
+  font-weight: bold;
+  color: white;
+}
+.boxyou1{
+  background-color: black;
+  height: 100px;
+  width: 100px;
+  margin-top: 1366px;
+  margin-left: 1884px;
+  border-radius: 50%;
+  position: absolute;
+  border: 2px dotted gray;
+
+}
+.you1{
+margin-top: 40px;
+  margin-left:  35px;
+  font-family: American Typewriter;
+  text-transform: capitalize;
+  font-weight: bold;
+  color: white;
+}
+.you2{
+  margin-top: 40px;
+  margin-left:  35px;
+  font-family: American Typewriter;
+  text-transform: capitalize;
+  font-weight: bold;
+  color: white;
+}
+.boxyou2{
+background-color: black;
+  height: 100px;
+  width: 100px;
+  margin-top: 1006px;
+  margin-left: 897px;
+  border-radius: 50%;
+  position: absolute;
+  border: 2px dotted gray;
+}
+.boxmore{
+background-color: black;
+  height: 500px;
+  width: 500px;
+margin-top: 902px;
+margin-left: 431px;
+  border-radius: 50%;
+  position: absolute;
+  border: 300px dotted gray;
+}
+.more{
+  margin-top: 180px;
+  margin-left:  77px;
+  font-family: American Typewriter;
+  text-transform: capitalize;
+  font-weight: bold;
+  font-size: 100px;
+  color: white;
+}

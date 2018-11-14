@@ -1,0 +1,62 @@
+.line1box{
+	background-color: black;
+	height: 2000px;
+}
+.line1{
+color: lightgray;
+position: relative;
+margin-left: 500px;
+letter-spacing: 50px;
+font-size: 150px;
+}
+.line2box{
+background-color: darkgray;
+	height: 20px;
+}
+.line2{
+color: white;
+position: relative;
+margin-left: 500px;
+letter-spacing: 50px;
+}
+.line3{
+color: black;
+position: relative;
+margin-left: 500px;
+letter-spacing: 50px;
+}
+.line3box{
+background-color: lightgray;
+	height: 20px;
+}
+.line4{
+color: black;
+position: relative;
+margin-left: 500px;
+letter-spacing: 50px;
+}
+.line4box{
+background-color: lightgray;
+	height: 20px;
+}
+.line5{
+color: white;
+position: relative;
+margin-left: 500px;
+letter-spacing: 50px;
+}
+.line5box{
+background-color: darkgray;
+	height: 20px;
+}
+.line6{
+color: lightgray;
+position: relative;
+margin-left: 500px;
+letter-spacing: 50px;
+font-size: 150px;
+}
+.line6box{
+background-color: black;
+	height: 2000px;
+}
