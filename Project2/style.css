@@ -1,27 +1,51 @@
 body{
-	background-color: black;
+  color: black;
+  background-color: black;
 }
-#A{
- float: auto;
- border: 10px inset brown;
- background-color: brown;
- margin: 100px;
+.frameout {
+	width: 500px;
+	height: 1000px;
+	background-color:  none;
+  background: none;
+	border-radius: 250px / 500px;
+	margin-left: 800px;
+	margin-top: 500px;
+	position: absolute;
+	border: 30px dashed gold ;
+	transition-duration: 0.3s;
+} 
+.framein {
+	  width: 400px;
+      height: 800px;
+      background: none;
+      background-color: none;
+      border-radius: 200px / 400px;
+      border: none;
+      margin-left: 850px;
+      margin-top: 600px;
+      transition-duration: 0.3s;
+      position: relative;
 }
-#special{
-	background-color: brown;
-	float: auto;
-	border: 10px inset brown;
+.framein:hover {
+	background: lightgray;
+	background-color: lightgray;
+
 }
-.more{
-	float: center;
-	border: 10px inset magenta;
-	background-color: lightblue;
-	display: block;
-	margin: 635px;
+.frameout:hover {
+	background-color: green;
+	background: red;
+  position: absolute;
 }
-#More{
-	float: center;
-	border: 10px inset magenta;
-	background-color: lightblue;
-	margin: 625px;
+
+
+a{
+  color: hotpink;
+  text-decoration: none;
+}
+
+}
+a:hover{
+  text-decoration: hotpink;
+  text-decoration-color: hotpink;
+  color: hotpink;
 }
